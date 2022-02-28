@@ -1,0 +1,28 @@
+################################################################################################################################################
+Detected SHAFT Engine Version: [SHAFT Engine v6.1.20220113]
+################################################################################################################################################
+[ReportManager] File Action [GetAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "src/test/resources/testDataFiles/JsonFile.json"]. @23-02-2022 20:32:46.0231 PM
+[ReportManager] Successfully loaded the following test data file [src/test/resources/testDataFiles/JsonFile.json]. @23-02-2022 20:32:46.0268 PM
+[ReportManager] Successfully created attachment [Test Data - JSON] @23-02-2022 20:32:46.0270 PM
+
+################################################################################################################################################
+Starting Execution:	[1 out of 1] test cases in the current suite
+Test Method:		[testdatasiles.tests.JsonFile.jsonFile]
+################################################################################################################################################
+[ReportManager] File Action [GetAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "target/downloadedFiles/"]. @23-02-2022 20:32:46.0396 PM
+[ReportManager] Attempting to run locally on: [Windows-64], [GoogleChrome]. @23-02-2022 20:32:46.0412 PM
+[ReportManager] Identifying OS/Driver combination and selecting the correct driver version automatically. Please note that if a new driver executable will be downloaded it may take some time... @23-02-2022 20:32:46.0418 PM
+[ReportManager] Successfully Opened Google Chrome. @23-02-2022 20:32:49.0364 PM
+[ReportManager] Target URL: [https://www.google.com.eg/] @23-02-2022 20:32:49.0656 PM
+[ReportManager] Initial URL: [data:,] @23-02-2022 20:32:49.0728 PM
+[ReportManager] File Action [CreateFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20220223-203246", Target File: "\1645641171949_jsonFile.gif"]. @23-02-2022 20:32:52.0170 PM
+[ReportManager] Browser Action [NavigateToURL] successfully performed. With the following test data [https://www.google.com.eg/]. @23-02-2022 20:32:52.0642 PM
+[ReportManager] File Action [GetAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "src/test/resources/testDataFiles/JsonFile.json"]. @23-02-2022 20:32:52.0645 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [Shift_Engine]. @23-02-2022 20:32:56.0221 PM
+[ReportManager] Successfully created attachment [Animated Gif - jsonFile] @23-02-2022 20:32:56.0232 PM
+[ReportManager] Successfully created attachment [SHAFT Engine Logs - Execution log] @23-02-2022 20:33:02.0318 PM
+
+################################################################################################################################################
+This test run was powered by SHAFT Engine Version: [SHAFT Engine v6.1.20220113]
+SHAFT Engine is licensed under the MIT License: [https://github.com/MohabMohie/SHAFT_ENGINE/blob/master/LICENSE].
+################################################################################################################################################
